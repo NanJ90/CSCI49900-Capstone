@@ -69,6 +69,27 @@ https://medium.com/swlh/how-to-pitch-your-app-to-investors-8fc6f93c31d
 
 https://mindsea.com/mobile-app-pitch-deck/
 
+### Rubric
+#### Presentation 
+|Criterion|Weight|Excellent(4)|Proficient(3)|Developing(2)|Beginning(1)|
+|--|--|--|--|--|--|
+|Problem Framing & Motivation|3%|Opens with a crisp, compelling statement of the problem and why it matters. Audience understands the stakes and target users within the first 2–3 minutes. Connects clearly to course topics.| Problem and motivation are clear. Stakes are stated, though impact could be sharper.|Problem is stated but motivation feels generic. Why this matters for real users or research is underdevelope.|Problem unclear, motivation missing, or audience is left guessing what the project actually addresses.|
+|Technologoes & platform|3%|Methods are explained at the right level for a mixed-background audience. Architecture, data, and key design decisions are justified.|Methods are explained correctly. Most design decisions are justified. Minor gaps in reasoning or detail.|Methods are described but feel like a list of tools rather than a coherent approach. Some choices unjustified.|Approach is confusing, technically inaccurate, or omits key components of the pipeline.|
+|Slide Design & Clarity|2%|Slides are uncluttered, visuals do the heavy lifting. Diagrams explain architecture better than prose would.|Slides are clean and readable with mostly effective visuals. A few text-heavy slides.|Slides are cluttered or text-heavy. Visuals are small, low-contrast, or off-topic.|Slides are unreadable, copied directly from the paper, or actively distracting.|
+|Delivery & Time Managemet|1%|Confident, well-paced delivery. Speakers don't read slides. Smooth hand-offs between teammates. Lands within the 10-minute window.| Clear delivery with minor pacing or hand-off issues. Within ±1.5 minutes of the time limit.|Reads slides verbatim or rushes/drags noticeably. Significantly over or under time.|Hard to follow. Speakers unprepared. Runs out of time before the results.|
+|Q & A Engagement|1%|Answers questions directly and thoughtfully. Acknowledges uncertainty when appropriate. Builds on questions rather than deflecting.|Answers most questions correctly. Occasional vague or off-target responses.|Struggles with substantive questions. Answers are surface-level.|Cannot answer basic questions about the team's own work.
+
+#### Paper 
+|Criterion|Weight|Excellent(4)|Proficient(3)|Developing(2)|Beginning(1)|
+|--|--|--|--|--|--|
+|Written Report — Structure & Writing|5%|Hits all required sections (motivation, related work, methods, etc.). Prose is clear, well-organized, and appropriately technical. Length matches page expectation. |All major sections present. Writing is mostly clear with minor organizational issues. Length close to target.|One section is thin or missing. Writing is unclear in places. Length notably off. Major sections missing. |Writing is hard to follow or significantly under length.|
+|Related Work|2%|Engages with relevant prior work, including recent papers. Clearly positions the project: what's borrowed, what's different, what gap is being filled.|Cites relevant work and positions the project, with some gaps in coverage or framing.|A short citation list with little engagement. Hard to tell how this work relates.|No related work, or citations that don't actually connect to the project.|
+|Technical Correctness|3%|Methods are described precisely and correctly. Math, architecture diagrams, and pseudocode (where used) are accurate. Choices of loss, optimizer, hyperparameters, and data splits are justified.|Methods are mostly correct with minor inaccuracies or unjustified choices.|Notable technical errors, hand-waving on key components, or missing important details.|Fundamental technical errors. Reader cannot reconstruct what was actually done.|
+
+#### Scoring
+- Each criterion is scored on the 1–4 scale and multiplied by its weight. The weighted sum gives the team's raw score on that deliverable, scaled to a percentage.
+- Presentation and Paper are graded separately. Each account 10% as shown on [syllabus](README.md).
+
 ### Tips for Strong Presentations
 
 Please practice your presentations. You should not stand up and give them cold.
@@ -83,6 +104,9 @@ Having a script for public presentations serves multiple purposes:
 
     - Forces you to think about what exactly you will be saying. In turn this provides self-feedback and practice of sorts, making for better presentations.
     - Helps you during the presentation. If you lose track of what you wanted to say, you can just check the script.
+
+### Questions?
+Come to office hours or post on Brightspace. We would much rather help you scope the project well in week 3 than tell you what went wrong at the final.
 
 ### Additional resources:
 
