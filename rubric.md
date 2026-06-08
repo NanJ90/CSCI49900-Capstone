@@ -6,3 +6,4 @@
 |Developing (2)|Shows real effort and a working result, but with notable weaknesses in execution, analysis, or communication.|
 |Beginning (1)|Significant pieces missing, incorrect, or unclear. Likely needs major revisions to meet course expectations.|
 
+More details coming soon...
