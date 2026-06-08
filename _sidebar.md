@@ -1,3 +1,3 @@
 - [Syllabus](README.md)
-- [Project Proposal Introduction](project-proposal-into.md)
+- [Project Proposal Introduction](project-proposal-intro.md)
 - [Project Rubric](rubric.md)
